@@ -17,4 +17,4 @@ Like in a real life scenario, you are able to make your own choices and text tre
 
 1. **Python Code:** Provide well-documented Python code that conducts the analysis.
 2. **Accuracy estimation:** Provide the teacher with your estimation of how your model will perform.
-2. **Classified Dataset**: On Friday, you will receive a dataset without tags. Prepare your code to be able to tag that dataset.
+2. **Classified Dataset**: You will receive a dataset without tags. Prepare your code to be able to tag that dataset.
